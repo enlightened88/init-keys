@@ -93,4 +93,4 @@ After running the program, the `./output` directory might look something like th
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/MIT) file for details.
